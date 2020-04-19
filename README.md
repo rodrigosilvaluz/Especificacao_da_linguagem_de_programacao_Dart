@@ -2,7 +2,7 @@
  Especificação da linguagem de programação Dart
  </h1>
  
-![](/home/semprelinux/git-repository/Especificao_DartLang/images/dart.png) 
+<img src="https://miro.medium.com/max/960/0*JWyRX0OvflgVHFUF" alt="https://miro.medium.com/max/960/0*JWyRX0OvflgVHFUF" class="transparent">
 
 <h2>
 Conteúdo
