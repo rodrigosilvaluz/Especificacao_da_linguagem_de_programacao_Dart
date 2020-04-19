@@ -8,65 +8,69 @@
 Conteúdo
 </h2>
 
+<ol>
 
- Escopo
- Conformidade
- Referências normativas
- Termos e definições
- Notação
- Visão geral
- Escopo
- Privacidade
- Concorrência
- Erros e avisos
- Variáveis
- Avaliação de getters implícitos de variáveis
- Funções
- Declarações de funções
- Parâmetros formais
- Formalidades necessárias
- Formals opcionais
- Parâmetros covariantes
- Tipo de uma função
- Funções externas
- Classes
- Métodos de instância
- Operadores
- O método NoSuchMethod 
- O operador '=='
- Getters
- Setters
- Membros de instância abstratos
- Variáveis ​​de instância
- Construtores
- Construtores generativos
- Fábricas
- Construtores constantes
- Métodos estáticos
- Superclasses
- Herança e substituição
- Superinterfaces
- Conflitos de membros da classe
- Interfaces
- Assinaturas combinadas de membros
- Superinterfaces
- Herança e substituição
- Substituições corretas de membros
- Mixins
- Classes Mixin
- Declaração Mixin
- Mixin
- Enums
- Genéricos
- Variação
- Tipos com limites super
- Instanciação ao limite
- Conceitos auxiliares da instanciação a serem vinculados
- A instanciação ao algoritmo vinculado
- Metadados
- Expressões
- Expression Evaluation
- Identidade do objeto
- Constantes
- Comentários adicionais sobre constantes e constantes potenciais 
- Contextos constantes
+
+<li> Escopo  </li>
+ <li> Conformidade
+ <li> Referências normativas</li>
+ <li> Termos e definições</li>
+ <li> Notação</li>
+ <li> Visão geral</li>
+ <li> Escopo</li>
+ <li> Privacidade</li>
+ <li> Concorrência</li>
+ <li> Erros e avisos</li>
+ <li> Variáveis</li>
+ <li> Avaliação de getters implícitos de variáveis</li>
+ <li> Funções</li>
+ <li> Declarações de funções</li>
+ <li> Parâmetros formais</li>
+ <li> Formalidades necessárias</li>
+ <li> Formals opcionais</li>
+ <li> Parâmetros covariantes</li>
+ <li> Tipo de uma função</li>
+ <li> Funções externas
+ <li> Classes</li>
+ <li> Métodos de instância</li>
+ <li> Operadores</li>
+<li>  O método NoSuchMethod</li> 
+ <li> O operador '=='</li>
+ <li> Getters</li>
+ <li> Setters</li>
+ <li> Membros de instância abstratos</li>
+ <li> Variáveis ​​de instância</li>
+ <li> Construtores</li>
+<li>  Construtores generativos</li>
+ <li> Fábricas</li>
+ <li> Construtores constantes</li>
+ <li> Métodos estáticos</li>
+ <li> Superclasses</li>
+ <li> Herança e substituição</li>
+ <li> Superinterfaces</li>
+ <li> Conflitos de membros da classe</li>
+ <li> Interfaces</li>
+ <li> Assinaturas combinadas de membros</li>
+ <li> Superinterfaces</li>
+ <li> Herança e substituição</li>
+ <li> Substituições corretas de membros</li>
+ <li> Mixins</li>
+ <li> Classes Mixin</li>
+<li>  Declaração Mixin</li>
+ <li> Mixin</li>
+ <li> Enums</li>
+ <li> Genéricos</li>
+ <li> Variação</li>
+ <li> Tipos com limites super</li>
+ <li> Instanciação ao limite</li>
+ <li> Conceitos auxiliares da instanciação a serem vinculados</li>
+ <li> A instanciação ao algoritmo vinculado</li>
+ <li> Metadados</li>
+ <li> Expressões</li>
+ <li> Expression Evaluation</li>
+ <li> Identidade do objeto</li>
+<li>  Constantes</li>
+<li>  Comentários adicionais sobre constantes e constantes potenciais</li> 
+ <li> Contextos constantes</li>
+ 
+ </ol>
