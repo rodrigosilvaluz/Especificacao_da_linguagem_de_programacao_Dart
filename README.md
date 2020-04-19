@@ -1,8 +1,12 @@
-# Especificação da linguagem de programação Dart
-
+<h1 align="center">
+ Especificação da linguagem de programação Dart
+ </h1>
 ![Dart](/home/semprelinux/git-repository/Especificao_DartLang/images/dart.png) 
 
-##Conteúdo
+<h2>
+Conteúdo
+</h2>
+
 
  Escopo
  Conformidade
