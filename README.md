@@ -3,6 +3,7 @@
 ![Dart](/home/semprelinux/git-repository/Especificao_DartLang/images/dart.png) 
 
 ##Conteúdo
+
  Escopo
  Conformidade
  Referências normativas
