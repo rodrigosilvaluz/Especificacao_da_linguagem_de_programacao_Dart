@@ -21,9 +21,8 @@ Conteúdo
 *  [Referências Normativas](#referências normativas)
 *  [Termos e Definições](#termos e definições)
 *  [Notação](#notação)
- <li> Visão geral</li>
- <li> Escopo</li>
- <li> Privacidade</li>
+*  [Visão Geral](#visão geral)
+*  [Privacidade](#privacidade)
  <li> Concorrência</li>
  <li> Erros e avisos</li>
  <li> Variáveis</li>
