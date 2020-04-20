@@ -19,7 +19,7 @@ Conteúdo
 *  [Escopo](#escopo)
 *  [Conformidade](#comformidade)
 *  [Referências Normativas](#referências normativas)
-*  [Termos e definições](#termos e definições)
+*  [Termos e Definições](#termos e definições)
 *  [Notação](#notação)
  <li> Visão geral</li>
  <li> Escopo</li>
