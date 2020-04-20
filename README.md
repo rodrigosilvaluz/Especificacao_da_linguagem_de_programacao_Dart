@@ -18,10 +18,10 @@ Conteúdo
 
 *  [Escopo](#escopo)
 *  [Conformidade](#comformidade)
-*  [Referências Normativas](#referências normativas)
-*  [Termos e Definições](#termos e definições)
+*  [Referências Normativas](#referênciasnormativas)
+*  [Termos e Definições](#termosedefinições)
 *  [Notação](#notação)
-*  [Visão Geral](#visão geral)
+*  [Visão Geral](#visãogeral)
 *  [Privacidade](#privacidade)
  <li> Concorrência</li>
  <li> Erros e avisos</li>
