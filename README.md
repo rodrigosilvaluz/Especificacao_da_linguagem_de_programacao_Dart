@@ -16,19 +16,20 @@ Conteúdo
 !-->
 
 
-*  [Escopo](#escopo)
-*  [Conformidade](#comformidade)
-*  [Referências Normativas](#referênciasnormativas)
-*  [Termos e Definições](#termosedefinições)
-*  [Notação](#notação)
-*  [Visão Geral](#visãogeral)
-*  [Privacidade](#privacidade)
- <li> Concorrência</li>
- <li> Erros e avisos</li>
- <li> Variáveis</li>
- <li> Avaliação de getters implícitos de variáveis</li>
- <li> Funções</li>
- <li> Declarações de funções</li>
+1.  [Escopo](#escopo)
+2.  [Conformidade](#comformidade)
+3.  [Referências Normativas](#referênciasnormativas)
+4.  [Termos e Definições](#termosedefinições)
+5.  [Notação](#notação)
+6.  [Visão Geral](#visãogeral)
+      6.1  [Scoping](#scoping)
+      6.2  [Privacidade](#privacidade)
+      6.3  [Concorrência](#concorrência)
+7.  [Erros e Avisos](#erroseavisos)
+8.  [Variáveis](#variaveis)
+      8.1  [Avaliação de getters implícitos de variáveis](#avaliaçãogetters)
+9.  [Funções](#funções)
+      9.1   [Declarações de funções](#declaraçãodefunções)
  <li> Parâmetros formais</li>
  <li> Formalidades necessárias</li>
  <li> Formals opcionais</li>
