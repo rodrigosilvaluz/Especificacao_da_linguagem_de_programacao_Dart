@@ -16,10 +16,10 @@ Conteúdo
 !-->
 
 
-* [Escopo](#escopo)
-* [Conformidade](#comformidade)
-* [Referências Normativas](#referências normativas)
-* [Termos e definições](#termos e definições)
+*  [Escopo](#escopo)
+*  [Conformidade](#comformidade)
+*  [Referências Normativas](#referências normativas)
+*  [Termos e definições](#termos e definições)
 
  <li> Notação</li>
  <li> Visão geral</li>
