@@ -20,8 +20,7 @@ Conteúdo
 *  [Conformidade](#comformidade)
 *  [Referências Normativas](#referências normativas)
 *  [Termos e definições](#termos e definições)
-
- <li> Notação</li>
+*  [Notação](#notação)
  <li> Visão geral</li>
  <li> Escopo</li>
  <li> Privacidade</li>
