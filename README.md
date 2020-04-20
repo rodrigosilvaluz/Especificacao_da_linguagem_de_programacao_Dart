@@ -30,12 +30,12 @@ Conteúdo
       8.1  [Avaliação de getters implícitos de variáveis](#avaliaçãogetters)
 9.  [Funções](#funções)
       9.1   [Declarações de funções](#declaraçãodefunções)
- <li> Parâmetros formais</li>
- <li> Formalidades necessárias</li>
- <li> Formals opcionais</li>
- <li> Parâmetros covariantes</li>
- <li> Tipo de uma função</li>
- <li> Funções externas
+      9.2   [Parâmetros Formais](#parâmetrosformais)
+       9.2.1  [Formalidades Necessárias](#formalidadesnecessárias)
+       9.2.2  [Formalidades Opcionais](#formalidadesopocionais)
+       9.2.3  [Parâmetros Covariantes](#parâmetroscovariantes)
+      9.3   [Tipo de uma Função](#tipodeumafunção)
+      9.4   [Funções Externas](#funçõesexternas)
  <li> Classes</li>
  <li> Métodos de instância</li>
  <li> Operadores</li>
