@@ -186,13 +186,31 @@ Conteúdo
 <li>Comentários</li>
 <li>Precedência do operador</li>
 
+***
+
 <h4>
  1. Escopo 
  </h4>
  
- <p>
+ 
  Este padrão Ecma especifica a sintaxe e a semântica da linguagem    de programação do Dart. Ele não especifica as APIs das bibliotecas Dart, exceto se os elementos da biblioteca forem essenciais para o funcionamento correto da linguagem (por exemplo, a existência de classObject com métodos como <strong>noSuchMethod</strong>, <strong>runtimeType</strong>)
- </p>
+ 
+ 
+<h4>
+ 2. Conformidade
+ </h4>
+ 
+ Uma implementação em conformidade da linguagem de programação Dart deve fornecer e suportar todas as APIs (bibliotecas, tipos, funções, getters, setters, seja de nível superior, estático, instância ou local) exigidas nesta especificação. É permitida a implementação em conformidade de fornecer APIs adicionais, mas não sintaxe adicional, exceto para os recursos experimentais no suporte a nulos-awarecascades que provavelmente serão introduzidos na próxima revisão desta especificação.
+ 
+ 
+ <h4>
+ 3. Referências Normativas
+ </h4>
+ 
+ Os seguintes documentos referenciados são indispensáveis para a aplicação deste documento. Para referências datadas, apenas a edição citada se aplica. Referências detalhadas, a última edição do documento referenciado (incluindo todas as emendas) se aplica.
+ 1. O Padrão Unicode, Versão 5.0, conforme emendado pelo Unicode 5.1.0, ou sucessor.
+ 2. Referência da API Dart, [API](https://api.dartlang.org/)
+ 
  
  
  
