@@ -190,7 +190,8 @@ Conteúdo
  1. Escopo 
  </h4>
  
- <p>Este padrão Ecma especifica a sintaxe e a semântica da linguagem de programação do Dart. Ele não especifica as APIs das bibliotecas Dart, exceto se os elementos da biblioteca forem essenciais para o funcionamento correto da linguagem (por exemplo, a existência de classObject com métodos como **noSuchMethod**, **runtimeType**)
+ <p>
+ Este padrão Ecma especifica a sintaxe e a semântica da linguagem    de programação do Dart. Ele não especifica as APIs das bibliotecas Dart, exceto se os elementos da biblioteca forem essenciais para o funcionamento correto da linguagem (por exemplo, a existência de classObject com métodos como <strong>noSuchMethod</strong>, <strong>runtimeType</strong>)
  </p>
  
  
