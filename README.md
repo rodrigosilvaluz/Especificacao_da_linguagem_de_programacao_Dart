@@ -224,6 +224,8 @@ Conteúdo
  </h4>
  
  Distinguimos entre texto normativo e não normativo. O texto normativo define as regras do Dart. É fornecido nesta fonte. No momento, o texto não normativo inclui: 
+ 
+ 
  <strong>Fundamentação</strong>  -> A discussão da motivação para decisões de design de linguagem aparece em itálico. A distinção entre normativo e não normativo ajuda a esclarecer qual parte do texto é vinculativa e qual parte é meramente expositiva.
  
  <strong>Comentários</strong> -> Comentários como “O leitor cuidadoso deve ter notado que o nome Dart tem quatro caracteres que  servem para ilustrar ou esclarecer a especificação, mas são insuficientes com o texto normativo. A diferença entre comentário e lógica pode ser sutil. O comentário é mais geral do que o racional e pode incluir exemplos ou esclarecimentos ilustrativos. 
